@@ -1,0 +1,6 @@
+{
+  "name": "FUNDCHAIN – Transparent Blockchain Crowdfunding Platform",
+  "description": "A decentralized, transparent crowdfunding platform built on an immutable blockchain ledger with real SHA-256 cryptography, Genesis block, live explorer, tamper detection lab, and contributor proof verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
